@@ -1,2 +1,2 @@
 # math-misc
-Collection of various term papers etc.
+Collection of various math papers etc.
